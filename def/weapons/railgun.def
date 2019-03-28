@@ -433,7 +433,7 @@ entityDef hitscan_railgun_penetrate
 
 entityDef damage_railgun 
 {
-	"damage"					"100"
+	"damage"					"125"
 	"push"						"500"
 	"knockback"					"100"
 	"gib"						"1"

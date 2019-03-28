@@ -705,11 +705,11 @@ entityDef player_marine
 //	"pm_maxviewpitch"					"53"	// looking down
 //	"pm_maxviewpitch"					"73"	// looking down
 	"pm_maxviewpitch"					"89"	// looking down
-	"pm_stamina"						"12"
+	"pm_stamina"						"100"
 	"pm_staminathreshold"					"4"
 	"pm_staminarate"					"0.75"
-	"pm_crouchheight"					"38"
-	"pm_crouchviewheight"					"32"
+	"pm_crouchheight"					"20"
+	"pm_crouchviewheight"					"20"
 	"pm_normalheight"					"74"
 	"pm_normalviewheight"					"68"
 	"pm_deadheight"						"20"
@@ -721,10 +721,10 @@ entityDef player_marine
 	"respawn_delay"						"1.7"		// minimum delay for respawning after death
 
 	// stats
-	"health"						"100"
-	"maxhealth"						"100"
-	"armor"							"0"
-	"maxarmor"						"100"
+	"health"						"125"
+	"maxhealth"						"500"
+	"armor"							"100"
+	"maxarmor"						"200s"
 	"minRestoreHealth0"					"20"		// Minimum health when loading a game for skill level 0
 	"minRestoreHealth1"					"10"		// Minimum health when loading a game for skill level 1
 
